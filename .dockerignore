@@ -9,4 +9,3 @@ dist
 *.md
 *.log
 .DS_Store
-scripts
