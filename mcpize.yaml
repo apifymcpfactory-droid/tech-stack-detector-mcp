@@ -12,3 +12,14 @@ startCommand:
 
 configSchema:
   source: code
+
+pricing:
+  protocol: "x402"
+  network: "base"
+  recipient: "0x8AE422532dB78d6A5592244EA1DdF7B4a72E7824"
+  asset: "usdc"
+  tools:
+    - name: "detect_stack"
+      price: "0.01"
+      description: "Detect a website's tech stack — CMS, framework, analytics, CDN,
+        hosting — from one URL."
